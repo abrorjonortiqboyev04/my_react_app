@@ -1,0 +1,23 @@
+.box1{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    display: flex;
+    justify-content: flex-end;
+}
+
+ul li{
+    margin: 1.5%;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.box2{
+    margin: 0.5% 10%;
+}
+
+ul li:hover{
+    cursor: pointer;
+    background: #77d85a;
+}
